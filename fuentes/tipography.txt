@@ -1,1 +1,5 @@
+#Fuentes y tipografías utilizadas:
+
+En esta carpeta se encuentran las fuentes o tipografías que se utilizaron para crear esta página web.
+*Así mismo se pueden añadir fuentes de su elección que podrá encontrar en los sitios de **Google fonts** y **Da Font**; o bien sitios de su elección.
 
