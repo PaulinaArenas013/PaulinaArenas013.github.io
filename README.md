@@ -10,23 +10,23 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![Primera parte de la página web](imagenes/Captura1.png)
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![Experiencia](imagenes/Captura2.png)
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![Proyectos](imagenes/Captura3.png)
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![Testimonios](imagenes/Captura4.png)
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![Contacto](imagenes/Captura5.png)
 
 ## Tecnologías
 
@@ -37,7 +37,7 @@ Esta página web fue creada con:
 * JavaScript 
 * Bootstrap 5
 
-Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstrap icons** para incorporar íconos como flechas y logos de redes sociales populares. 
+Además, se incluyeron **Google Fonts** y **Da Font** para personalizar la fuente y **Bootstrap icons** para incorporar íconos como flechas y logos de redes sociales populares. 
 
 ## Español
 
